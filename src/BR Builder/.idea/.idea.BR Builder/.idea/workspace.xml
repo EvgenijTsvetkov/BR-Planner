@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bf07b6f-99b1-4bcb-a81f-522aeaf5d735" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Class/ClassTypeId.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Skill/SkillView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/00A477ED-1ABF-4030-BE64-6C3244BD3667/00/f3cfa41c/PointerType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Bootstrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Skill/ScriptableObjects/SkillStaticData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/CursorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../MyGitHUB/Playzzy/Top-Down-Coop/Assets/_Game/UI/Cursor/CursorController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/BuildPlanner/Planner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07C89F75-2069-4139-9913-32D3CF930D48/ea/2018144d/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Factory/ProjectFactory.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/_Project/Scripts/MenuHanlder.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Scripts/CursorController.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Scripts/Installers/SceneInstaller.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Scripts/Point/PointView.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Scripts/Point/ReactivePresenter.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Scripts/Point/Enemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Scripts/Point/PointPresenter.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Scripts/Point/PointManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Scripts/Point/SkilPointManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Scripts/Bootstrapper.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Scripts/Point/SkillPointManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Scripts/SkillPoint/PointView.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Scripts/SkillPoint/SkillPointView.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Class/Class.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Class/ClassTypeId.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Skill/ScriptableObjects/LevelData.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Skill/ScriptableObjects/PointType.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Class/ScriptableObjects/ClassData.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Skill/ScriptableObjects/SkillData.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Skill/ScriptableObjects/PointTypeId.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Skill/ScriptableObjects/SkillStaticData.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/StaticData/StaticDataService.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/StaticData/IStaticDataService.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Skill/SkillHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/SkillPoint/PointPresenter.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/SkillPoint/SkillPointView.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/AssetManagement/AssetPath.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Installers/SceneInstaller.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Factory/IProjectFactory.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/AssetManagement/IAssetProvider.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/AssetManagement/AssetProvider.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Skill/SkillView.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Factory/ProjectFactory.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/SkillPoint/SkillTreeView.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/BuildPlanner/Planner.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Skill/SkillModel.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Project/Skill/Skill.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="26s1QfRk6nW4lKVDsIu1pStM4Mi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502052" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../_Builds/BR Skills Builder\BR Builder.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\MyProjects\MyLearning\_Builds\BR Skills Builder" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="20688">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="20688" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bf07b6f-99b1-4bcb-a81f-522aeaf5d735" name="Default Changelist" comment="" />
+      <created>1648197464759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648197464759</updated>
+      <workItem from="1648197466721" duration="3636000" />
+      <workItem from="1648343876094" duration="2827000" />
+      <workItem from="1648379637535" duration="19850000" />
+      <workItem from="1648446833231" duration="13865000" />
+      <workItem from="1648491143454" duration="7472000" />
+      <workItem from="1648499822054" duration="6024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
